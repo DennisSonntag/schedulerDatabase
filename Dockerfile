@@ -1,4 +1,4 @@
-FROM debian
+FROM alpine:latest
 
 ARG PB_VERSION=0.11.2
 
